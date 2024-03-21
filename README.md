@@ -1,4 +1,4 @@
-<h1>Hi, I'm Junayd! <br/><a href="https://github.com/junayd-elahi">Programmer</a></h1>
+<h1>Hi, I'm Junayd! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
