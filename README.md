@@ -5,7 +5,7 @@
 - <b>Python Supermarket Lane Simulation</b>
   - [Overview of simulation](https://github.com/junayd-elahi/SuperMarket-Simulation/blob/main/README.md)
 - <b>Link Activity checker, useable in excel</b>
-  - [Explantion of what this link check does](https://github.com/junayd-elahi/SuperMarket-Simulation/blob/main/README.md)
+  - [Explantion of what this link check does](https://github.com/junayd-elahi/Link-Active-Check)
 - <b>Rightmove Sold WebScrapper</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
