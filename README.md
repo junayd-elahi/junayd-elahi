@@ -8,8 +8,8 @@
   - [Explantion of what this link check does](https://github.com/junayd-elahi/Link-Active-Check)
 - <b>Rightmove Sold WebScrapper</b>
   - [Explanation]()
-- <b>Python Special Numbers Algorithm(Finding palindromic and prime numbers)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>)Rightmove Scraper</b>
+  - [Introduction to webscraping]()
 
 
 <h2> 🤳 Connect with me:</h2>
