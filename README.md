@@ -7,7 +7,7 @@
 - <b>Link Activity checker, useable in excel</b>
   - [Explantion of what this link check does](https://github.com/junayd-elahi/Link-Active-Check)
 - <b>Rightmove Sold WebScrapper</b>
-  - [Explanation for what this is]()
+  - [Explanation]()
 - <b>Python Special Numbers Algorithm(Finding palindromic and prime numbers)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
