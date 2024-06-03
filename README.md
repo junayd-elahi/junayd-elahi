@@ -8,7 +8,7 @@
   - [Explantion of what this link check does](https://github.com/junayd-elahi/Link-Active-Check)
 - <b>Rightmove Sold WebScrapper</b>
   - [Explanation]()
-- <b>)Rightmove Scraper</b>
+- <b>Rightmove Scraper</b>
   - [Introduction to webscraping]()
 
 
