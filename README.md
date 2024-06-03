@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python Supermarket Lane Simulation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Overview of simulation](https://github.com/junayd-elahi/SuperMarket-Simulation/blob/main/README.md)
 - <b>Scheme Supermarket Lane Simulation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Link Activity checker for excel</b>
