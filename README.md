@@ -7,7 +7,7 @@
 - <b>Link Activity checker, useable in excel</b>
   - [Explantion of what this link check does](https://github.com/junayd-elahi/Link-Active-Check)
 - <b>Rightmove Sold WebScrapper</b>
-  - [Explanation]()
+  - [Explanation](https://github.com/junayd-elahi/Rightmove-Sold)
 - <b>Rightmove Scraper</b>
   - [Introduction to webscraping](https://github.com/junayd-elahi/Web-Scrape/tree/main)
 
