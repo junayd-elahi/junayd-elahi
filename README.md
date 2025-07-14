@@ -1,23 +1,48 @@
-<h1>Hi, I'm Junayd! </h1>
+# 👋 Hi, I'm Junayd!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I'm a BSc Computer Science (Artificial Intelligence) student at Greenwich University, based in London.  
+I build real-world software tools with Python — focusing on automation, web scraping, and data handling.
 
-- <b>Python Supermarket Lane Simulation</b>
-  - [Overview of simulation](https://github.com/junayd-elahi/SuperMarket-Simulation/blob/main/README.md)
-- <b>Link Activity checker, useable in excel</b>
-  - [Explantion of what this link check does](https://github.com/junayd-elahi/Link-Active-Check)
-- <b>Rightmove Sold WebScrapper</b>
-  - [Explanation](https://github.com/junayd-elahi/Rightmove-Sold)
-- <b>Rightmove Scraper</b>
-  - [Introduction to webscraping](https://github.com/junayd-elahi/Web-Scrape/tree/main)
+---
+
+## 👨‍💻 Software Development Projects
+
+### 🏪 Python Supermarket Lane Simulation  
+Simulates supermarket checkout behavior using Python.  
+🔗 [View Project](https://github.com/junayd-elahi/SuperMarket-Simulation)
+
+### 🔗 Excel-Based Link Activity Checker  
+Checks if links are active and flags dead links in Excel files using Python automation.  
+🔗 [View Project](https://github.com/junayd-elahi/Link-Active-Check)
+
+### 🏘️ Rightmove Sold Listings Web Scraper  
+Scrapes historical “sold” listings from Rightmove and exports to Excel for analysis.  
+🔗 [View Project](https://github.com/junayd-elahi/Rightmove-Sold)
+
+### 🏡 Rightmove Live Listings Scraper  
+Scrapes live property listings for market monitoring and competitor analysis.  
+🔗 [View Project](https://github.com/junayd-elahi/Web-Scrape/tree/main)
+
+---
+
+## 🤳 Connect with Me
+
+## 🤳 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justjunayd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junayd-elahi-2029b9213/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mysodawarm/)
 
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JustJunayd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JustJunayd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JustJunayd| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/justjunayd
-[instagram]: https://www.instagram.com/mysodawarm/
-[linkedin]: https://www.linkedin.com/in/junayd-elahi-2029b9213/
+---
+
+## 💼 I'm Currently
+
+- 📚 Studying Computer Science (AI) at Greenwich University  
+- 🤖 Building Python tools for real-world automation  
+- 💼 Open to internships and junior tech roles (London-based or remote)  
+
+Feel free to connect or message me!
+
