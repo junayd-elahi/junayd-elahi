@@ -15,10 +15,6 @@ Simulates supermarket checkout behavior using Python.
 Checks if links are active and flags dead links in Excel files using Python automation.  
 🔗 [View Project](https://github.com/junayd-elahi/Link-Active-Check)
 
-### 🏘️ Rightmove Sold Listings Web Scraper  
-Scrapes historical “sold” listings from Rightmove and exports to Excel for analysis.  
-🔗 [View Project](https://github.com/junayd-elahi/Rightmove-Sold)
-
 ### 🏡 Rightmove Live Listings Scraper  
 Scrapes live property listings for market monitoring and competitor analysis.  
 🔗 [View Project](https://github.com/junayd-elahi/Web-Scrape/tree/main)
