@@ -1,43 +1,31 @@
-# 👋 Hi, I'm Junayd!
+# 👋 Hi, I'm Junayd
 
-I'm a BSc Computer Science (Artificial Intelligence) student at Greenwich University, based in London.
+BSc Computer Science (Artificial Intelligence) at Greenwich University, based in London.
+I build machine learning systems with a focus on healthcare and rigorous evaluation.
 
 ---
 
-## 👨‍💻  Projects
+## 👨‍💻 Projects
 
-### 🏪 Python Supermarket Lane Simulation  
-Simulates supermarket checkout behavior using Python.  
-🔗 [View Project](https://github.com/junayd-elahi/SuperMarket-Simulation)
+### 🧠 Typing-Based Biomarker Classification for Parkinson's (Final Year Project)
+Investigated typing dynamics as a biomarker for Parkinson's Disease using keystroke data from 131 participants. Built Random Forest and XGBoost models with nested subject-wise GroupKFold cross-validation to prevent data leakage. Contributed a reproducible benchmark showing prior results do not generalise under leakage-resistant evaluation.
+🔗 [View Project](https://github.com/junayd-elahi/parkinsons-typing-biomarker)
 
-### 🔗 Excel-Based Link Activity Checker  
-Checks if links are active and flags dead links in Excel files using Python automation.  
-🔗 [View Project](https://github.com/junayd-elahi/Link-Active-Check)
+### 🩻 Pneumonia Detection from Chest X-Rays
+Convolutional neural network classifying chest X-rays as normal or pneumonia, compared against a logistic-regression baseline. Achieves high recall on the test set, with an honest analysis of the false-positive tradeoff and overfitting.
+🔗 [View Project](https://github.com/junayd-elahi/pneumonia-detection-cnn)
 
-### 🏡 Rightmove Property Scraper  
-Scrapes live property listings for market monitoring and competitor analysis.  
-🔗 [View Project](https://github.com/junayd-elahi/Web-Scrape/tree/main)
+### 🏡 Rightmove Property Scraper
+Resilient scraper for live Rightmove listings with OCR-based floor-area extraction. Outputs structured CSV for downstream analysis.
+🔗 [View Project](https://github.com/junayd-elahi/Web-Scrape)
 
-### 🏡 Rightmove Sold Property Market Analysis
-Cleaned and analysed 10,000+ sold property transactions to identify seasonality, regional price differences and long-term capital appreciation trends.
+### 📊 Rightmove Sold Property Market Analysis
+Cleaned and analysed 10,000+ sold property transactions to identify seasonality, regional price differences and long-term captial appreciation trends.
 🔗 [View Project](https://github.com/junayd-elahi/RightmovesoldHouses)
----
 
-## 🤳 Connect with Me
 
+## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junayd-elahi-2029b9213/)
 
-
-
-
----
-
-## 💼 I'm Currently
-
-- 📚 Studying Computer Science (AI) at Greenwich University  
-- 🤖 Building Python tools for real-world automation  
-- 💼 Open to internships and junior tech roles (London-based or remote)  
-
-Feel free to connect or message me!
-
+Open to ML, data and software roles, London-based or remote.
