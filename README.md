@@ -20,7 +20,7 @@ Resilient scraper for live Rightmove listings with OCR-based floor-area extracti
 🔗 [View Project](https://github.com/junayd-elahi/Web-Scrape)
 
 ### 📊 Rightmove Sold Property Market Analysis
-Cleaned and analysed 10,000+ sold property transactions to identify seasonality, regional price differences and long-term captial appreciation trends.
+Cleaned and analysed 10,000+ sold property transactions to identify seasonality, regional price differences and long-term capital appreciation trends.
 🔗 [View Project](https://github.com/junayd-elahi/RightmovesoldHouses)
 
 
