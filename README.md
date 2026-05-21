@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Junayd!
 
 I'm a BSc Computer Science (Artificial Intelligence) student at Greenwich University, based in London.  
-I build real-world software tools with Python — focusing on automation, web scraping, and data handling.
 
 ---
 
