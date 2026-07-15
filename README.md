@@ -15,9 +15,9 @@ Investigated typing dynamics as a biomarker for Parkinson's Disease using keystr
 Convolutional neural network classifying chest X-rays as normal or pneumonia, compared against a logistic-regression baseline. Achieves high recall on the test set, with an honest analysis of the false-positive tradeoff and overfitting.
 🔗 [View Project](https://github.com/junayd-elahi/pneumonia-detection-cnn)
 
-### 🏡 Rightmove Property Scraper
-Resilient scraper for live Rightmove listings with OCR-based floor-area extraction. Outputs structured CSV for downstream analysis.
-🔗 [View Project](https://github.com/junayd-elahi/Web-Scrape)
+### 🏥 Healthcare ELT Pipeline
+End-to-end ELT pipeline on synthetic patient data: Python ingestion → dbt (staging + dimensional marts) → Snowflake. Built a star schema with conformed dimensions across two fact tables, 39 data-quality tests enforcing referential integrity, least-privilege access with a service account, CI on every pull request, and Airflow orchestration in Docker. Includes a documented join-fanout bug caught by testing.
+🔗 [View Project](https://github.com/junayd-elahi/Healthcare-ETL)
 
 ### 📊 Rightmove Sold Property Market Analysis
 Cleaned and analysed 10,000+ sold property transactions to identify seasonality, regional price differences and long-term capital appreciation trends.
