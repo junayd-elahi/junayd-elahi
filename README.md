@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Junayd
 
-BSc Computer Science (Artificial Intelligence) at Greenwich University, based in London.
-I build machine learning systems with a focus on healthcare and rigorous evaluation.
+I build data pipelines and machine learning projects, with a particular interest in healthcare. My work focuses on data quality, reproducible workflows and rigorous model evaluation.
 
 ---
 
@@ -29,4 +28,4 @@ Cleaned and analysed 10,000+ sold property transactions to identify seasonality,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junayd-elahi-2029b9213/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Junayd.elahi124@gmail.com)
 
-Open to ML, data and software roles, London-based or remote.
+Based in London. Open to opportunities in Data Engineering, Data Science and Machine Learning.
